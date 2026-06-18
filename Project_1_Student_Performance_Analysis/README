@@ -1,1 +1,63 @@
+# Student Performance Analysis
+
+## Project Overview
+
+This project analyzes student performance data using Power BI. The objective is to identify patterns and factors affecting academic performance through interactive visualizations and dashboards.
+
+## Dataset Information
+
+The dataset includes:
+
+* Gender
+* Race/Ethnicity
+* Parental Level of Education
+* Test Preparation Course
+* Math Score
+* Reading Score
+* Writing Score
+
+## Project Objectives
+
+* Analyze student academic performance
+* Compare scores across different groups
+* Identify factors influencing performance
+* Create interactive visualizations and dashboards
+* Generate meaningful insights from the data
+
+## Dashboard Features
+
+* Student Count
+* Average Math Score
+* Average Reading Score
+* Average Writing Score
+* Gender-wise Analysis
+* Ethnicity-wise Analysis
+* Parental Education Analysis
+* Test Preparation Course Analysis
+* Interactive Filters (Slicers)
+
+## Tools Used
+
+* Power BI Desktop
+* CSV Dataset
+* Microsoft Word
+* GitHub
+
+## Key Insights
+
+* Student performance varies across different demographic groups.
+* Test preparation courses can positively influence performance.
+* Parental education level shows a relationship with student achievement.
+* Interactive dashboards help in understanding performance trends effectively.
+
+## Files Included
+
+* Student_Performance_Analysis.pbix
+* StudentsPerformance.csv
+* Student_Performance_Analysis_Report.pdf
+* Dashboard Screenshot
+
+## Author
+
+Jaisha N
 
